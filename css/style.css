@@ -189,6 +189,7 @@ display: inline-block;
 .post-text p {}
 
 .post:hover{
+    background-color: #fff;
     box-shadow: 0px 8px 35px #d1d1d1;
 } 
 /* blog-section  */
